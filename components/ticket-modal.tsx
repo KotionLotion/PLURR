@@ -76,7 +76,7 @@ export default function TicketModal({ isOpen, onClose }: TicketModalProps) {
 
   const handleWhatsAppClick = () => {
     const message = `Hi! I just made a bank transfer for ${formData.tickets} PLURR ticket(s). Name: ${formData.fullName}`
-    window.open(`https://wa.me/5016001234?text=${encodeURIComponent(message)}`, "_blank")
+    window.open(`https://wa.me/5016090991?text=${encodeURIComponent(message)}`, "_blank")
   }
 
   return (
