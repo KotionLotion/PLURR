@@ -7,9 +7,9 @@ interface TicketCardProps {
 }
 
 const features = [
-  "General Admission — July 24 · 6PM",
+  "General Admission — July 10 · 6PM",
   "Unlimited drinks (till supplies last)",
-  "Access until 6AM July 25",
+  "Access until 6AM July 11",
   "WhatsApp ticket confirmation",
   "PLURR vibes all night",
 ]
