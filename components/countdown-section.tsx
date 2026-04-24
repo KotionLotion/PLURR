@@ -69,7 +69,7 @@ export default function CountdownSection() {
         <div className="flex items-center justify-center gap-4 mb-12">
           <span className="h-px w-8 sm:w-16 bg-gradient-to-r from-transparent to-white/30" />
           <h2 className="text-white/60 font-mono text-xs sm:text-sm uppercase tracking-[0.25em]">
-            Countdown to July 24
+            Countdown to July 10
           </h2>
           <span className="h-px w-8 sm:w-16 bg-gradient-to-l from-transparent to-white/30" />
         </div>
