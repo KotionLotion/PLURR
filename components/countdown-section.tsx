@@ -12,7 +12,7 @@ export default function CountdownSection() {
   useEffect(() => {
     const calculateTimeLeft = () => {
       // Event date: July 24, 2026 at 6PM Belize Time (CST/UTC-6)
-      const eventDate = new Date("2026-07-24T18:00:00-06:00")
+      const eventDate = new Date("2026-07-10T18:00:00-06:00")
       const now = new Date()
       const difference = eventDate.getTime() - now.getTime()
 
