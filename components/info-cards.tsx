@@ -6,7 +6,7 @@ const infoItems = [
   {
     icon: Calendar,
     label: "Date",
-    value: "July 24",
+    value: "July 10",
     description: "Friday Night into Saturday Morning",
     color: "#00ffea",
   },
