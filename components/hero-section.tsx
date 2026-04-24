@@ -34,7 +34,7 @@ export default function HeroSection({ onGetTickets }: HeroSectionProps) {
 
       {/* Date */}
       <p className="text-[#00ffea] font-mono text-lg md:text-xl tracking-wider mb-8">
-        July 24–25 · 6PM → 6AM
+        July 10–11 · 6PM → 6AM
       </p>
 
       {/* CTA Buttons */}
