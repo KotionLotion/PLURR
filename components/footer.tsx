@@ -13,7 +13,7 @@ export default function Footer() {
         {/* Info */}
         <div className="text-center md:text-right">
           <p className="text-white/50 text-sm font-mono">
-            July 24/25 · Benque Viejo del Carmen· 6PM-6AM
+            July 10/11 · Benque Viejo del Carmen· 6PM-6AM
           </p>
           <p className="text-white/30 text-xs mt-1">
             Peace · Love · Unity · Respect · Responsibility
